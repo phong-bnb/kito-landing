@@ -1,3 +1,4 @@
+![image](https://github.com/phong-bnb/kito-landing/assets/126847058/8742675e-4c60-4b01-8076-d5b26f9f136e)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
