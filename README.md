@@ -15,4 +15,5 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/phong-bnb/kito-landing/assets/126847058/9321defb-17fa-4b14-9a24-ae32ae1321f5)
 ![image](https://github.com/phong-bnb/kito-landing/assets/126847058/9b65ca6d-f693-4b48-b6d0-26e241d09613)![Uploading image.png…]()
+![Uploading image.png…]()
 
