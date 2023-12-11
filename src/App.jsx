@@ -6,6 +6,7 @@ import ProudOf from "./components/ProudOf";
 import Footer2 from "./components/foot2";
 import Header from "./components/contents/Header";
 import HeaderOne from "./components/header/header";
+import Headermobie from "./components/headermobi";
 
 function App() {
   return (
@@ -15,8 +16,8 @@ function App() {
         <Header />
       </div>
       <div className="tb:hidden">
-        <h1>kito</h1>
-        
+        <Headermobie/>
+
       </div>
 
       <div className="flex flex-col tb:w-[1460px] m-auto tb:bg-inherit bg-gray ">

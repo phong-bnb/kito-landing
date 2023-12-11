@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="flex items-center justify-between border-b-2 pb-[83px] mb-[70px] tb:flex-row flex-col">
         <h1 className="foot__title">KITO</h1>
         <div className="flex items-center  tb:flex-row flex-col">
-          <p className="p1 tb:w-[206px] mr-[31px]">
+          <p className="p1 tb:w-[206px] mr-[31px] tb:mb-0 mb-5">
             Join our list and get 20% off your first purchase!
           </p>
           <label form="email" className="relative">
@@ -124,6 +124,7 @@ const Footstyle = styled.div`
     font-style: normal;
     font-weight: 700;
     line-height: 22px;
+
   }
   .h3 {
     color: var(--toy-kid-1-a-1114, #1a1114);
